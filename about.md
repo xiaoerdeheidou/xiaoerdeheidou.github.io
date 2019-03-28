@@ -2,9 +2,9 @@
 bg: "owl.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "111"
 permalink: /about/
-summary: "About this blog"
+summary: "122222"
 active: about
 ---
 
